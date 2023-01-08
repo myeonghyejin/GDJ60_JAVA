@@ -5,5 +5,5 @@
  * @author 명혜진
  *
  */
-module GDJ60_JAVA {
+module GDJ60_Java {
 }
