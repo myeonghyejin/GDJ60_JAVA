@@ -2,8 +2,8 @@
  * 
  */
 /**
- * @author GDJ60
+ * @author 명혜진
  *
  */
-module GDJ60_Java {
+module GDJ60_JAVA {
 }
